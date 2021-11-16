@@ -10,6 +10,6 @@ Creates a single VM and installs Docker and Kubernetes.
 vagrant up
 ```
 
-Kubernetes dashboard should be available at `https://192.168.1.180:3000'
+Kubernetes dashboard should be available at `https://192.168.1.180:3000`
 
 Admin token for logging into the dashboard will be output into the `token` file.
